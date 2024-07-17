@@ -1,9 +1,9 @@
 Global
 	Title "Modern 50g"
 	Author "esesur"
-	Hardware "Yorke"
+	# Hardware "Yorke"
 	Model "Q"
-	# Class INTEGER
+	Class 50
 	Rom "rom.49g"
 	# Patch STRING
 	Bitmap "modern50g.png"
