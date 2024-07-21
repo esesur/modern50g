@@ -98,6 +98,10 @@ Scancode 79 # O
 	Map 79 43 # O
 End
 
+Scancode 222 # '
+	Map 222 43 # O
+End
+
 Scancode 80 # P
 	Map 80 44 # P
 End
@@ -286,13 +290,13 @@ Scancode 32 # SPACE
 	Map 32 104 # SPC
 End
 
-Scancode 188 # ,
-	IfPressed 188	# COMMA
-		Press 91		# RIGHT-SHIFT
-		Release 91		# RIGHT-SHIFT
-	Else        	# COMMA
-		Press 104		# SPC (RIGHT-SHIFT COMMA)
-		Release 104		# SPC (RIGHT-SHIFT COMMA)
+Scancode 188 # COMMA
+	IfPressed 188 # COMMA
+		Press 91 # RIGHT-SHIFT
+		Release 91 # RIGHT-SHIFT
+	Else # COMMA
+		Press 104 # SPC (RIGHT-SHIFT COMMA)
+		Release 104 # SPC (RIGHT-SHIFT COMMA)
 	End
 End
 
