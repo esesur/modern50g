@@ -1358,20 +1358,8 @@
                     <g transform="matrix(0.880061,0,0,0.880061,652.588,470.893)">
                         <path d="M-20.04,215.042L-18.677,209.198L-17.861,209.198L-19.49,216.016L-20.088,216.016L-20.04,215.042ZM-20.959,213.175L-20.03,215.07L-19.909,216.016L-20.462,216.016L-21.808,213.175L-20.959,213.175ZM-24.855,214.019L-24.855,213.175L-21.008,213.175L-20.799,214.019L-24.855,214.019Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                     </g>
-                    <g transform="matrix(1.02066,0,0,0.697969,659.651,509.66)">
-                        <g transform="matrix(8.27865,0,0,8.27865,-18.4187,215.063)">
-                        </g>
-                        <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">y</text>
-                    </g>
                     <g transform="matrix(0.942857,0,0,0.73122,563.685,435.634)">
                         <rect x="77" y="300" width="5" height="1" style="fill:rgb(255,138,128);"/>
-                    </g>
-                    <g transform="matrix(0.887356,0,0,0.833353,568.437,398.542)">
-                        <g transform="matrix(1.28385,0,0,1,-19.9616,0)">
-                            <g transform="matrix(5.67824,0,0,5.67824,73.1816,310.742)">
-                            </g>
-                            <text x="70.326px" y="310.742px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:5.678px;fill:rgb(255,138,128);">x</text>
-                        </g>
                     </g>
                     <g transform="matrix(0.768832,0,0,0.685906,613.653,511.58)">
                         <g transform="matrix(8.27865,0,0,8.27865,-17.8568,215.063)">
@@ -1950,20 +1938,8 @@
                     <g transform="matrix(0.880061,0,0,0.880061,652.588,470.893)">
                         <path d="M-20.04,215.042L-18.677,209.198L-17.861,209.198L-19.49,216.016L-20.088,216.016L-20.04,215.042ZM-20.959,213.175L-20.03,215.07L-19.909,216.016L-20.462,216.016L-21.808,213.175L-20.959,213.175ZM-24.855,214.019L-24.855,213.175L-21.008,213.175L-20.799,214.019L-24.855,214.019Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                     </g>
-                    <g transform="matrix(1.02066,0,0,0.697969,659.651,509.66)">
-                        <g transform="matrix(8.27865,0,0,8.27865,-18.4187,215.063)">
-                        </g>
-                        <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">y</text>
-                    </g>
                     <g transform="matrix(0.942857,0,0,0.73122,563.685,435.634)">
                         <rect x="77" y="300" width="5" height="1" style="fill:rgb(255,138,128);"/>
-                    </g>
-                    <g transform="matrix(0.887356,0,0,0.833353,568.437,398.542)">
-                        <g transform="matrix(1.28385,0,0,1,-19.9616,0)">
-                            <g transform="matrix(5.67824,0,0,5.67824,73.1816,310.742)">
-                            </g>
-                            <text x="70.326px" y="310.742px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:5.678px;fill:rgb(255,138,128);">x</text>
-                        </g>
                     </g>
                     <g transform="matrix(0.768832,0,0,0.685906,613.653,511.58)">
                         <g transform="matrix(8.27865,0,0,8.27865,-17.8568,215.063)">
@@ -2547,6 +2523,30 @@
                         <g transform="matrix(8.27865,0,0,8.27865,-1.19843,215.063)">
                         </g>
                         <text x="-19.975px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">COPY</text>
+                    </g>
+                </g>
+                <g transform="matrix(1.33457,0,0,0.747824,3712.88,417.033)">
+                    <g transform="matrix(8.27865,0,0,8.27865,-18.4187,215.063)">
+                    </g>
+                    <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">y</text>
+                </g>
+                <g transform="matrix(1.10501,0,0,1.02043,3597.9,259.031)">
+                    <g transform="matrix(1.28385,0,0,1,-19.9616,0)">
+                        <g transform="matrix(5.67824,0,0,5.67824,73.1816,310.742)">
+                        </g>
+                        <text x="70.326px" y="310.742px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:5.678px;fill:rgb(255,138,128);">x</text>
+                    </g>
+                </g>
+                <g transform="matrix(1.33457,0,0,0.747824,4041.64,417.033)">
+                    <g transform="matrix(8.27865,0,0,8.27865,-18.4187,215.063)">
+                    </g>
+                    <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">y</text>
+                </g>
+                <g transform="matrix(1.10501,0,0,1.02043,3926.66,259.031)">
+                    <g transform="matrix(1.28385,0,0,1,-19.9616,0)">
+                        <g transform="matrix(5.67824,0,0,5.67824,73.1816,310.742)">
+                        </g>
+                        <text x="70.326px" y="310.742px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:5.678px;fill:rgb(255,138,128);">x</text>
                     </g>
                 </g>
             </g>
