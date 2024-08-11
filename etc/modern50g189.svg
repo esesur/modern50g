@@ -1024,7 +1024,7 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:white;">CUSTOM</text>
                     </g>
-                    <g transform="matrix(1.05495,0,0,1.05495,651.404,344.142)">
+                    <g transform="matrix(1.05495,0,0,1.05495,650.405,344.142)">
                         <g transform="matrix(8.05729,0,0,8.05729,-8.48204,215.063)">
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.057px;fill:rgb(255,138,128);">END</text>
@@ -1063,7 +1063,7 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:white;">CUSTOM</text>
                     </g>
-                    <g transform="matrix(1.05495,0,0,1.05495,651.404,344.142)">
+                    <g transform="matrix(1.05495,0,0,1.05495,650.405,344.142)">
                         <g transform="matrix(8.05729,0,0,8.05729,-8.48204,215.063)">
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.057px;fill:rgb(255,138,128);">END</text>
@@ -1247,10 +1247,8 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:9.971px;fill:white;">SYMB</text>
                     </g>
-                    <g transform="matrix(1.2035,0,0,1.2035,696.45,388.172)">
-                        <g transform="matrix(9.9709,0,0,9.9709,-20.3116,215.063)">
-                        </g>
-                        <text x="-21.996px" y="215.063px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:9.971px;fill:white;">&apos;</text>
+                    <g transform="matrix(1,0,0,0.992248,535.458,357.206)">
+                        <rect x="135" y="283" width="1" height="3.023" style="fill:white;"/>
                     </g>
                     <g transform="matrix(1.2035,0,0,1.2035,603.85,387.437)">
                         <g transform="matrix(9.9709,0,0,9.9709,-13.2667,215.063)">
@@ -1930,10 +1928,8 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:9.971px;fill:white;">SYMB</text>
                     </g>
-                    <g transform="matrix(1.2035,0,0,1.2035,696.45,388.172)">
-                        <g transform="matrix(9.9709,0,0,9.9709,-20.3116,215.063)">
-                        </g>
-                        <text x="-21.996px" y="215.063px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:9.971px;fill:white;">&apos;</text>
+                    <g transform="matrix(1,0,0,0.992248,535.5,357.194)">
+                        <rect x="135" y="283" width="1" height="3.023" style="fill:white;"/>
                     </g>
                     <g transform="matrix(1.2035,0,0,1.2035,603.85,387.437)">
                         <g transform="matrix(9.9709,0,0,9.9709,-13.2667,215.063)">
