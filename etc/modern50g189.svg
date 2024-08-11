@@ -1392,8 +1392,8 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">Σ</text>
                     </g>
-                    <g transform="matrix(0.833333,0,-0.138889,0.833333,622.832,405.5)">
-                        <path d="M259.4,306L260,306C260.265,306 260.52,305.895 260.707,305.707C260.895,305.52 261,305.265 261,305C261,303.89 261,302.11 261,301C261,300.735 261.105,300.48 261.293,300.293C261.48,300.105 261.735,300 262,300C262,300 262,300 262,300" style="fill:none;stroke:rgb(255,138,128);stroke-width:1.3px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    <g transform="matrix(1,0,0,1,542,355)">
+                        <path d="M253.5,305.5L254.18,305.5C254.657,305.5 255.067,305.164 255.161,304.696C255.347,303.764 255.653,302.236 255.839,301.304C255.933,300.836 256.343,300.5 256.82,300.5C257.17,300.5 257.5,300.5 257.5,300.5" style="fill:none;fill-rule:nonzero;stroke:rgb(255,138,128);stroke-width:1px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
                     </g>
                 </g>
                 <g transform="matrix(1.13208,0,0,1.17424,2329.81,-174.583)">
@@ -2009,8 +2009,8 @@
                         </g>
                         <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">Σ</text>
                     </g>
-                    <g transform="matrix(0.833333,0,-0.138889,0.833333,622.832,405.5)">
-                        <path d="M259.4,306L260,306C260.265,306 260.52,305.895 260.707,305.707C260.895,305.52 261,305.265 261,305C261,303.89 261,302.11 261,301C261,300.735 261.105,300.48 261.293,300.293C261.48,300.105 261.735,300 262,300C262,300 262,300 262,300" style="fill:none;stroke:rgb(255,138,128);stroke-width:1.3px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                    <g transform="matrix(1,0,0,1,542,355)">
+                        <path d="M253.5,305.5L254.18,305.5C254.657,305.5 255.067,305.164 255.161,304.696C255.347,303.764 255.653,302.236 255.839,301.304C255.933,300.836 256.343,300.5 256.82,300.5C257.17,300.5 257.5,300.5 257.5,300.5" style="fill:none;fill-rule:nonzero;stroke:rgb(255,138,128);stroke-width:1px;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
                     </g>
                 </g>
                 <g transform="matrix(1.13208,0,0,1.17424,2030.94,-174.583)">
