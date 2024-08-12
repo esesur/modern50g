@@ -1518,11 +1518,11 @@
                     <g id="rect45" transform="matrix(1,0,0,1,-1833,-1971)">
                         <rect x="2526" y="2776" width="2" height="4" style="fill:rgb(255,138,128);"/>
                     </g>
-                    <g transform="matrix(1,0,0,1,744.125,808.355)">
-                        <text x="0px" y="0px" style="font-family:'RobotoMono-SemiBold', 'Roboto Mono';font-weight:600;font-size:13.857px;fill:rgb(255,138,128);">,</text>
+                    <g transform="matrix(0.999982,0,0,0.998604,744.284,808.358)">
+                        <path d="M4.709,-0.176L4.716,-1.61L3.031,-1.61L3.031,-0.108C3.031,0.365 2.975,0.778 2.862,1.13C2.754,1.486 2.609,1.827 2.429,2.152L3.376,2.646C3.773,2.294 4.094,1.861 4.337,1.346C4.585,0.832 4.709,0.325 4.709,-0.176Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                     </g>
-                    <g id="path46" transform="matrix(1,0,0,1,-1833,-1971)">
-                        <circle cx="2580.08" cy="2777.76" r="1.756" style="fill:rgb(255,138,128);"/>
+                    <g transform="matrix(1,0,0,1,538,355)">
+                        <circle cx="209.25" cy="451.75" r="1.75" style="fill:rgb(255,138,128);"/>
                     </g>
                     <g id="path2" transform="matrix(1,0,0,1,-1833,-1971)">
                         <circle cx="2481" cy="2781" r="1" style="fill:white;"/>
@@ -2129,11 +2129,11 @@
                     <g id="rect451" serif:id="rect45" transform="matrix(1,0,0,1,-1833,-1971)">
                         <rect x="2526" y="2776" width="2" height="4" style="fill:rgb(255,138,128);"/>
                     </g>
-                    <g transform="matrix(1,0,0,1,744.125,808.355)">
-                        <text x="0px" y="0px" style="font-family:'RobotoMono-SemiBold', 'Roboto Mono';font-weight:600;font-size:13.857px;fill:rgb(255,138,128);">,</text>
+                    <g transform="matrix(0.999982,0,0,0.998604,744.284,808.358)">
+                        <path d="M4.709,-0.176L4.716,-1.61L3.031,-1.61L3.031,-0.108C3.031,0.365 2.975,0.778 2.862,1.13C2.754,1.486 2.609,1.827 2.429,2.152L3.376,2.646C3.773,2.294 4.094,1.861 4.337,1.346C4.585,0.832 4.709,0.325 4.709,-0.176Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                     </g>
-                    <g id="path461" serif:id="path46" transform="matrix(1,0,0,1,-1833,-1971)">
-                        <circle cx="2580.08" cy="2777.76" r="1.756" style="fill:rgb(255,138,128);"/>
+                    <g transform="matrix(1,0,0,1,538,355)">
+                        <circle cx="209.25" cy="451.75" r="1.75" style="fill:rgb(255,138,128);"/>
                     </g>
                     <g id="path21" serif:id="path2" transform="matrix(1,0,0,1,-1833,-1971)">
                         <circle cx="2481" cy="2781" r="1" style="fill:white;"/>
