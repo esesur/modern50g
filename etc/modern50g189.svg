@@ -1223,46 +1223,46 @@
                         </g>
                     </g>
                     <g transform="matrix(1.13208,0,0,1.17424,-46.4149,-2477.27)">
-                        <g id="text27-9-0-0-8" transform="matrix(1,0,0,1,-0.999509,-4.16104e-06)">
+                        <g id="text27-9-0-0-8" transform="matrix(1,0,0,1,0.999797,-4.16104e-06)">
                             <path d="M2540,2777L2540,2776L2534,2776L2534,2777L2535,2777L2535,2782L2536.14,2782L2536.14,2777L2538,2777L2538,2780.26C2538,2780.59 2538.03,2780.86 2538.09,2781.08C2538.16,2781.3 2538.25,2781.48 2538.38,2781.61C2538.51,2781.76 2538.67,2781.86 2538.86,2781.91C2539.05,2781.97 2539.07,2781.99 2539.18,2782C2539.36,2782.01 2539.54,2781.98 2539.72,2781.95C2539.9,2781.91 2540.1,2781.82 2540.31,2781.69L2540.07,2780.72C2540,2780.76 2539.93,2780.79 2539.85,2780.81C2539.78,2780.84 2539.68,2780.85 2539.58,2780.85C2539.49,2780.85 2539.41,2780.84 2539.35,2780.83C2539.28,2780.81 2539.23,2780.78 2539.19,2780.74C2539.14,2780.7 2539.11,2780.63 2539.09,2780.55C2539.07,2780.46 2539.06,2780.35 2539.06,2780.2L2539.06,2777L2540,2777Z" style="fill:white;fill-rule:nonzero;"/>
                         </g>
-                        <g id="path21-5-0-3-86" transform="matrix(1.1058,0,0,1,-260.436,-4.16104e-06)">
+                        <g id="path21-5-0-3-86" transform="matrix(1.1058,0,0,1,-258.436,-4.16104e-06)">
                             <path d="M2468.29,2776L2468.29,2782L2473.71,2779L2468.29,2776Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                         </g>
-                        <g id="rect21-5-5-0-9" transform="matrix(1,0,0,1,1.28696,-4.16104e-06)">
+                        <g id="rect21-5-5-0-9" transform="matrix(1,0,0,1,3.28696,-4.16104e-06)">
                             <rect x="2462.78" y="2778" width="7.444" height="2" style="fill:rgb(255,138,128);"/>
                         </g>
-                        <g id="path21-5-0-3-86-2" transform="matrix(1.01542,0,0,1,-43.3587,-1.01905e-05)">
+                        <g id="path21-5-0-3-86-2" transform="matrix(1.01542,0,0,1,-41.3587,-1.01905e-05)">
                             <path d="M2615.03,2776L2615.03,2782L2618.97,2779L2615.03,2776Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                         </g>
-                        <g id="rect21-5-5-0-9-83" transform="matrix(1.01517,0,0,1,-42.6513,-1.01905e-05)">
+                        <g id="rect21-5-5-0-9-83" transform="matrix(1.01517,0,0,1,-40.6513,-1.01905e-05)">
                             <rect x="2612.03" y="2778" width="4" height="2" style="fill:rgb(255,138,128);"/>
                         </g>
-                        <g id="path21-5-0-3-86-5" transform="matrix(1.09361,0,0,1,-236.626,-4.16104e-06)">
+                        <g id="path21-5-0-3-86-5" transform="matrix(1.09361,0,0,1,-234.626,-4.16104e-06)">
                             <path d="M2522.49,2776L2522.49,2782L2517.07,2779L2522.49,2776Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                         </g>
-                        <g id="rect21-5-5-0-9-8" transform="matrix(-1,0,0,1,-1.00009,-4.16104e-06)">
+                        <g id="rect21-5-5-0-9-8" transform="matrix(-1,0,0,1,0.99991,-4.16104e-06)">
                             <rect x="-2528" y="2778" width="7.444" height="2" style="fill:rgb(255,138,128);"/>
                         </g>
-                        <g id="rect45" transform="matrix(1,0,0,1,-1.00009,-4.16104e-06)">
+                        <g id="rect45" transform="matrix(1,0,0,1,0.99991,-4.16104e-06)">
                             <rect x="2526" y="2776" width="2" height="4" style="fill:rgb(255,138,128);"/>
                         </g>
-                        <g transform="matrix(0.999982,0,0,0.998604,2575.28,2779.36)">
+                        <g transform="matrix(0.999982,0,0,0.998604,2577.28,2779.36)">
                             <path d="M4.716,-0.176L4.716,-1.61L3.031,-1.61L3.031,-0.108C3.031,0.365 2.975,0.778 2.862,1.13C2.754,1.486 2.609,1.827 2.429,2.152L3.376,2.646C3.773,2.294 4.094,1.861 4.337,1.346C4.585,0.832 4.716,0.325 4.716,-0.176Z" style="fill:rgb(255,138,128);fill-rule:nonzero;"/>
                         </g>
-                        <g transform="matrix(1,0,0,1,2369,2326)">
+                        <g transform="matrix(1,0,0,1,2371,2326)">
                             <circle cx="209.25" cy="451.75" r="1.75" style="fill:rgb(255,138,128);"/>
                         </g>
-                        <g id="path2" transform="matrix(1,0,0,1,1.00049,-4.16104e-06)">
+                        <g id="path2" transform="matrix(1,0,0,1,2.99991,-4.16104e-06)">
                             <circle cx="2481" cy="2781" r="1" style="fill:white;"/>
                         </g>
-                        <g id="path2-2" transform="matrix(1,0,0,1,1.00049,-4.16104e-06)">
+                        <g id="path2-2" transform="matrix(1,0,0,1,2.99991,-4.16104e-06)">
                             <circle cx="2481" cy="2777" r="1" style="fill:white;"/>
                         </g>
-                        <g id="path2-2-1" transform="matrix(1,0,0,1,1.00049,-4.16104e-06)">
+                        <g id="path2-2-1" transform="matrix(1,0,0,1,2.99991,-4.16104e-06)">
                             <circle cx="2485" cy="2777" r="1" style="fill:white;"/>
                         </g>
-                        <g id="path2-2-5" transform="matrix(1,0,0,1,1.00049,-4.16104e-06)">
+                        <g id="path2-2-5" transform="matrix(1,0,0,1,2.99991,-4.16104e-06)">
                             <circle cx="2485" cy="2781" r="1" style="fill:white;"/>
                         </g>
                         <g transform="matrix(1.02674,0,0,1.02674,2399.14,2561.21)">
@@ -1270,22 +1270,22 @@
                             </g>
                             <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:white;">CONT</text>
                         </g>
-                        <g transform="matrix(1.02674,0,0,1.02674,2608.45,2561.21)">
+                        <g transform="matrix(1.02674,0,0,1.02674,2610.45,2561.21)">
                             <g transform="matrix(8.27865,0,0,8.27865,-7.64591,215.063)">
                             </g>
                             <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:white;">ANS</text>
                         </g>
-                        <g transform="matrix(1.30408,0,0,1.31977,2456.17,2498.05)">
+                        <g transform="matrix(1.30408,0,0,1.31977,2458.17,2498.05)">
                             <g transform="matrix(8.27865,0,0,8.27865,-13.483,215.063)">
                             </g>
                             <text x="-21.996px" y="215.063px" style="font-family:'Roboto-Regular', 'Roboto';font-size:8.279px;fill:white;">∞</text>
                         </g>
-                        <g transform="matrix(1.02674,0,0,1.02674,2431.58,2561.21)">
+                        <g transform="matrix(1.02674,0,0,1.02674,2433.58,2561.21)">
                             <g transform="matrix(8.27865,0,0,8.27865,-9.08497,215.063)">
                             </g>
                             <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">OFF</text>
                         </g>
-                        <g transform="matrix(1.02674,0,0,1.02674,2639.67,2561.17)">
+                        <g transform="matrix(1.02674,0,0,1.02674,2641.67,2561.17)">
                             <g transform="matrix(8.27865,0,0,8.27865,-5.94005,215.063)">
                             </g>
                             <text x="-21.996px" y="215.063px" style="font-family:'RobotoCondensed-Medium', 'Roboto Condensed';font-weight:500;font-size:8.279px;fill:rgb(255,138,128);">NUM</text>
